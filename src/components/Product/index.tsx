@@ -1,6 +1,16 @@
 import React from "react";
 
-import { Container } from "./styles";
+import {
+  Container,
+  Row,
+  Panel,
+  Column,
+  Gallery,
+  Section,
+  Description,
+} from "./styles";
+
+import tshirtImage from "./../../assets/tshirt.png";
 
 const Product: React.FC = () => {
   return (
@@ -13,7 +23,7 @@ const Product: React.FC = () => {
       <Panel>
         <Column>
           <Gallery>
-            <img src="T-Shirt" loading="lazy" alt={tshirtImage} />
+            <img src={tshirtImage} loading="lazy" alt="T-Shirt" />
           </Gallery>
           <Info></Info>
         </Column>
@@ -46,6 +56,7 @@ const WarrantySection = () => (
         <p className="description">Sem garantia</p>
       </span>
     </div>
+    <a href="#">Saiba mais sobre garantia</a>
   </Section>
 );
 
@@ -68,6 +79,7 @@ const Info = () => (
       - 1x LED
       <br />
       - 1x LED
+      <br />
       <br />
       Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit pariatur
       temporibus perspiciatis vero fugiat, error repellendus quod, saepe
