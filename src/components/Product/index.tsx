@@ -11,6 +11,7 @@ import {
 } from "./styles";
 
 import tshirtImage from "./../../assets/tshirt.png";
+import SellerInfo from "./../SellerInfo";
 
 const Product: React.FC = () => {
   return (
@@ -30,7 +31,7 @@ const Product: React.FC = () => {
 
         <Column>
           {/* <ProductAction></ProductAction> */}
-          {/* <SellerInfo></SellerInfo> */}
+          <SellerInfo></SellerInfo>
 
           <WarrantySection></WarrantySection>
           <WarrantySection></WarrantySection>
