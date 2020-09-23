@@ -7,7 +7,10 @@ import {
   LocationIcon,
   ReputationCard,
   ReputationThermometer,
-  Reo,
+  ReputationRow,
+  SupportIcon,
+  ClockIcon,
+  More,
 } from "./styles";
 
 const SellerInfo: React.FC = () => {
