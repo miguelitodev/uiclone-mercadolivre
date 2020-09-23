@@ -86,7 +86,26 @@ const Info = () => (
       Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit pariatur
       temporibus perspiciatis vero fugiat, error repellendus quod, saepe
       necessitatibus illum voluptas, alias architecto porro facere! Cumque sed
-      ex repudiandae facilis!
+      ex repudiandae facilis! Lorem ipsum dolor, sit amet consectetur
+      adipisicing elit. Fugit pariatur temporibus perspiciatis vero fugiat,
+      error repellendus quod, saepe necessitatibus illum voluptas, alias
+      architecto porro facere! Cumque sed ex repudiandae facilis! Lorem ipsum
+      dolor, sit amet consectetur adipisicing elit. Fugit pariatur temporibus
+      perspiciatis vero fugiat, error repellendus quod, saepe necessitatibus
+      illum voluptas, alias architecto porro facere! Cumque sed ex repudiandae
+      facilis! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit
+      pariatur temporibus perspiciatis vero fugiat, error repellendus quod,
+      saepe necessitatibus illum voluptas, alias architecto porro facere! Cumque
+      sed ex repudiandae facilis! Lorem ipsum dolor, sit amet consectetur
+      adipisicing elit. Fugit pariatur temporibus perspiciatis vero fugiat,
+      error repellendus quod, saepe necessitatibus illum voluptas, alias
+      architecto porro facere! Cumque sed ex repudiandae facilis! adipisicing
+      elit. Fugit pariatur temporibus perspiciatis vero fugiat, error
+      repellendus quod, saepe necessitatibus illum voluptas, alias architecto
+      porro facere! Cumque sed ex repudiandae facilis! adipisicing elit. Fugit
+      pariatur temporibus perspiciatis vero fugiat, error repellendus quod,
+      saepe necessitatibus illum voluptas, alias architecto porro facere! Cumque
+      sed ex repudiandae facilis!
     </p>
   </Description>
 );
